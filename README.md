@@ -28,3 +28,11 @@ Além disso, há tabelas associativas para representar os relacionamentos N:N en
 - As equipes de mecânicos foram modeladas como entidade separada para permitir maior controle sobre as atribuições de OS.
 - Os serviços são cadastrados previamente com base em uma tabela de referência de mão-de-obra.
 
+## Análise e queries
+Nas queries,pretende-se responder perguntas como,por exemplo:
+- Quais ordens de serviço foram autorizadas e concluídas?
+- Quais serviços foram realizados em uma determinada OS?
+- Quais peças foram usadas em uma OS e seu custo total?
+- Qual a lista de mecânicos por equipe?
+- Quais são todos os veículos de um cliente específico?
+- Qual o valor total estimado de uma OS (serviços + peças)?
