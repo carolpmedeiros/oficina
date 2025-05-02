@@ -2,7 +2,7 @@
 
 # Sistema de Gerenciamento de Ordens de Serviço - Oficina Mecânica
 
-Este projeto tem como objetivo modelar o esquema conceitual de um sistema de controle e gerenciamento de ordens de serviço (OS) em uma oficina mecânica.
+Este projeto tem como objetivo modelar o esquema conceitual de um sistema de controle e gerenciamento de ordens de serviço (OS) em uma oficina mecânica usando mySQL.
 
 ## Descrição do Contexto
 
